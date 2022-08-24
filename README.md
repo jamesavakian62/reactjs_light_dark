@@ -1,4 +1,9 @@
-# Available Scripts
+# reactjs_light_dark
+
+![Screen Shot 2022-08-24 at 7 42 51 AM](https://user-images.githubusercontent.com/92414210/186451153-ea181b63-7252-4a67-80b2-e83a4dbf282c.png)
+
+![Screen Shot 2022-08-24 at 7 42 58 AM](https://user-images.githubusercontent.com/92414210/186451196-e307aac6-6df9-4def-929e-3adc0f700068.png)
+
 
 ### Run the application
 
